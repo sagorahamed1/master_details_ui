@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
   List <Person> getpersonsinfo(){
     List <Person> list = [];
     list.add(Person(image: 'person1.jpg', name: 'John Doe', designation: 'Software Engineer', email: 'john.doe@example.com', phoneNo: '017456-7890',));
-    list.add(Person(image: 'person2.jpg', name: 'Jane Smith', designation: 'Product Manager', email: 'jane.smith@example.com', phoneNo: '014567-8901',));
+    list.add(Person(image: 'person2.jpg', name: 'Miss soraya', designation: 'Product Manager', email: 'jane.smith@example.com', phoneNo: '014567-8901',));
     list.add(Person(image: 'person3.jpg', name: 'David Johnson', designation: 'Graphic Designer', email: 'david.johnson@example.com', phoneNo: '013678-9012',));
     list.add(Person(image: 'person4.jpg', name: 'Emily Brown', designation: 'Marketing Specialist', email: 'emily.brown@example.com', phoneNo: '016789-0123',));
     list.add(Person(image: 'person5.jpg', name: 'Michael Wilson', designation: 'Financial Analyst', email: 'michael.wilson@example.com', phoneNo: '019890-1234',));
